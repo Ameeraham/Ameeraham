@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer Ahamed</h1>
 <h3 align="center">Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameeraham&label=Profile%20views&color=0e75b6&style=flat" alt="ameeraham" /> </p>
+<img align="right" width="400px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/designergif.gif" alt="ameeraham" />
 
 - 🌱 I’m currently learning **Mern Stack**
 
