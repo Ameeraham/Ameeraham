@@ -7,7 +7,7 @@
 
 - 👯 I’m currently pursuing **Master of computer Application(MCA)**
 
-- 👨‍💻 All of my projects are available at [https://ameeraham.github.io/Portfolio/](https://ameeraham.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://ameeraham.github.io/Portfolio/
 
 - 📫 How to reach me **ameermnm101@gmail.com**
 
