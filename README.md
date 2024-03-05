@@ -3,7 +3,7 @@
 
 <img align="right" width="400px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/designergif.gif" alt="ameeraham" />
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently working as a **Salesforce developer**
 
 - 👯 I’m currently pursuing **Master of computer Application(MCA)**
 
