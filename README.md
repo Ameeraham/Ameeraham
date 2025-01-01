@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ameer Ahamed</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Salesforce developer</h3>
 
 <img align="right" width="400px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/designergif.gif" alt="ameeraham" />
 
 - 🌱 I’m currently working as a **Salesforce developer**
 
-- 👯 I’m currently pursuing **Master of computer Application(MCA)**
+- 👯 I’m completed  **Master of computer Application(MCA)**
 
 - 👨‍💻 All of my projects are available at https://ameeraham.github.io/Portfolio/
 
